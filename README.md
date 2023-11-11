@@ -5,7 +5,7 @@
 # Aleo — CONTRIBUTOR BADGE
 
 Official documentation:
->- [-](-)
+>- [link](https://developer.aleo.org/getting_started/)
 
 Explorer:
 >- [-](-)
